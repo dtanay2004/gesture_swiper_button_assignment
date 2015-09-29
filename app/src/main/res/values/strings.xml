@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tutorial21_gesture_swiper_button_assignment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tanaysMessage_text">Large Text</string>
+    <string name="tanaysButton_text">Click Me</string>
+
+</resources>
